@@ -48,3 +48,6 @@ This project is simple and was did with JavaScript, HTML and CSS. The CSS is bas
   <summary><strong>🤷🏽‍♀️ Português: lista</strong></summary><br />
   A tarefa selecionada tem um fundo cinza, se uma tarefa é selecionada sempre haverá uma tarefa selecionada. Uma tarefa finalizada precisa ter dois clique seguidos, então o texto será marcado com uma linha, uma vez que a terefa estiver riscada, pode dar um clique duplo novamente, então removerá a linha. Um clique simples irar selecionar uma tarefa.
 </details>
+
+web sort:<br />
+input; <br /> list; <br /> options. <br /> <br /> ordem do site: <br /> input <br /> lista; <br /> opções.
